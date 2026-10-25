@@ -2,6 +2,8 @@
 
 **Release packages are being prepared. No downloadable app is available yet.**
 
+ICS Easy is designed for offline VHF net-control logging, with ICS 309 traffic logs, ICS 214 activity logs, and ICS 213 formal messages.
+
 ICS Easy is an offline incident forms application for amateur radio (ham radio) and emergency communications. It supports offline incident logging with ICS213, ICS214 and ICS309. This public repository is the download area; application source is maintained separately in a private repository.
 
 ## What the forms are for
