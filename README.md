@@ -20,3 +20,7 @@ These consistent, legible records support operator handoffs and later review dur
 ## Availability
 
 This repository currently contains project information only. No application release or installation package has been published.
+
+## Developer
+
+Designed and developed by KA9TGN.
