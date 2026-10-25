@@ -2,6 +2,12 @@
 
 **Release packages are being prepared. No downloadable app is available yet.**
 
+## Purpose
+
+ICS Easy helps net-control operators record VHF/UHF/HF communications without requiring internet access. It is being developed for Windows computers and Raspberry Pi stations. It records radio traffic; it does not transmit over the radio.
+
+The current app has been tested locally on Windows. Raspberry Pi hardware validation and distribution are still pending. No public installation packages are available yet.
+
 ICS Easy is designed for offline VHF/UHF/HF net-control logging, with ICS 309 traffic logs, ICS 214 activity logs, and ICS 213 formal messages.
 
 ICS Easy is an offline incident forms application for amateur radio (ham radio) and emergency communications. It supports offline incident logging with ICS213, ICS214 and ICS309. This public repository is the download area; application source is maintained separately in a private repository.
